@@ -3,7 +3,7 @@ namespace HelloWorld
     class Hello {         
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Hello Bangladesh!");
+            System.Console.WriteLine("Hello Bogura!");
         }
     }
 }
