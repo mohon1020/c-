@@ -1,1 +1,23 @@
+class Student{
+    string name;
+    string id;
+    string depertment;
+    float cgpa;
+
+    public void insert(string name, string id, string depertment, float cgpa){
+        name=Name;
+        id=Id;
+        depertment=Depertment;
+        cgpa=CGPA;
+
+    }
+    public void ShowInfo()
+    {
+        console.writeline("Name :" + name);
+        console.writeline("Id :" +id);
+        console.writeline("Depertment :" +depertment);
+        console.writeline("CGPA:" +cgpa);
+    }
+
+}
 
